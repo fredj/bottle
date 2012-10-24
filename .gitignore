@@ -3,7 +3,6 @@
 *.db
 *.log
 ._*
-.*
 *.*~
 dist/
 build/
